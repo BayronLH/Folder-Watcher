@@ -104,7 +104,7 @@ To get a local copy up and running follow these simple example steps.
 
 -To use this tool, please clone the project, then go to the folder in the repository:
 
-prueba_python/dist/main
+Prueba Python/dist/main
 
 -In this folder you will find the file "main.exe" which runs the tool.
 
